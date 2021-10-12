@@ -37,7 +37,7 @@ In a way, with an autonomous system, the artist gives up control over their art,
 The coder-artist engages in a feedback loop where they are constantly tweaking a system to produce more desirable and often more surprising results.
 
 
-This process embraces experimentation and happy accidents in a way that reshapes the role of the artist. Generative artists, use the code basics like loops, control flow and specialized functions. We then blend them with often unpredictable forces, to produce completely unique results unlike anything else that exists.
+This process embraces experimentation and happy accidents in a way that reshapes the role of the artist. Generative artists, use the code basics like loops, control flow and specialized functions. Then, they blend them with often unpredictable forces, to produce completely unique results unlike anything else that exists.
 
 ## The Challenge
 
