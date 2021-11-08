@@ -41,7 +41,7 @@ This process embraces experimentation and happy accidents in a way that reshapes
 
 ## The Challenge
 
-This is a kind of more creative challenge. We defy you to make the greatest and creative pice of generative art you can. With all the resources that you want to use. 
+This is a kind of more creative challenge. We defy you to make the greatest and creative pice of generative art you can. With all the resources that you want to use. U can work building an algorithm, traning some NN models... Feel Free with whatever you want!
 
 ### Instructions
 
